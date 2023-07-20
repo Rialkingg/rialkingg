@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rialking</h1>
-<h3 align="center">multiplayer games developer</h3>
+<h3 align="center">Multiplayer games developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rialkingg&label=Views&color=707070&style=flat" alt="rialkingg" /> </p>
 
