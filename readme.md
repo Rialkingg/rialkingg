@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rialkingg&label=Views&color=707070&style=flat" alt="rialkingg" /> </p>
 
-- 🔭 I’m currently working on [Vulturehub](vulturehub.com)
+- 🔭 I’m currently working on [Vulturehub](vulturehub.com) [BandoRP](bandorp.com) [Bando Scripts](scripts.bandorp..com) 
 
-- 🌱 I’m currently learning **Java & JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 🔭 I maintain and develop [Stickers](https://play.google.com/store/apps/details?id=com.mystatus.sloth_stickersapp&hl=es_419&gl=US)
 
